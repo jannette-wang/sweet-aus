@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sweet-aus
+- 👋 Hi, I’m @Jannette Wang
 - 👀 I’m interested in Azure Cloud and Automation
 - 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on any of DevOps, Cloud or SRE team
