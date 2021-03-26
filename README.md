@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jannette Wang
 - 👀 I’m interested in Azure Cloud and Automation
-- 🌱 I’m currently learning Terraform
+- 🌱 I’m currently using Terraform
 - 💞️ I’m looking to collaborate on any of DevOps, Cloud or SRE team
 - 📫 How to reach me jannettewang@hotmail.com
 
