@@ -8,3 +8,23 @@
 sweet-aus/sweet-aus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+😄  minikube v1.25.2 on Microsoft Windows 10 Enterprise 10.0.19042 Build 19042
+✨  Automatically selected the hyperv driver
+💿  Downloading VM boot image ...
+    > minikube-v1.25.2.iso.sha256: 65 B / 65 B [-------------] 100.00% ? p/s 0s
+    > minikube-v1.25.2.iso: 237.06 MiB / 237.06 MiB [] 100.00% 8.65 MiB p/s 28s
+👍  Starting control plane node minikube in cluster minikube
+💾  Downloading Kubernetes v1.23.3 preload ...
+    > preloaded-images-k8s-v17-v1...: 505.68 MiB / 505.68 MiB  100.00% 9.85 MiB
+🔥  Creating hyperv VM (CPUs=2, Memory=4000MB, Disk=20000MB) ...
+🤦  StartHost failed, but will try again: creating host: create: precreate: Hyper-V PowerShell Module is not available
+🔥  Creating hyperv VM (CPUs=2, Memory=4000MB, Disk=20000MB) ...
+😿  Failed to start hyperv VM. Running "minikube delete" may fix it: creating host: create: precreate: Hyper-V PowerShell Module is not available
+
+❌  Exiting due to PR_HYPERV_MODULE_NOT_INSTALLED: Failed to start host: creating host: create: precreate: Hyper-V PowerShell Module is not available
+💡  Suggestion: Run: 'Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-Tools-All'
+📘  Documentation: https://www.altaro.com/hyper-v/install-hyper-v-powershell-module/
+🍿  Related issue: https://github.com/kubernetes/minikube/issues/9040
