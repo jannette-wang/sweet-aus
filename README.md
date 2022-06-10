@@ -9,7 +9,12 @@ sweet-aus/sweet-aus is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+minikube start
+minikube is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.
 
+All you need is Docker (or similarly compatible) container or a Virtual Machine environment, and Kubernetes is a single command away: minikube start
+
+Installing...
 
 😄  minikube v1.25.2 on Microsoft Windows 10 Enterprise 10.0.19042 Build 19042
 ✨  Automatically selected the hyperv driver
