@@ -29,7 +29,4 @@ Installing...
 🔥  Creating hyperv VM (CPUs=2, Memory=4000MB, Disk=20000MB) ...
 😿  Failed to start hyperv VM. Running "minikube delete" may fix it: creating host: create: precreate: Hyper-V PowerShell Module is not available
 
-❌  Exiting due to PR_HYPERV_MODULE_NOT_INSTALLED: Failed to start host: creating host: create: precreate: Hyper-V PowerShell Module is not available
-💡  Suggestion: Run: 'Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-Tools-All'
-📘  Documentation: https://www.altaro.com/hyper-v/install-hyper-v-powershell-module/
 🍿  Related issue: https://github.com/kubernetes/minikube/issues/9040
