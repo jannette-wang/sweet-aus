@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Jannette Wang.
+## About me
+
+- 👋 Hi, I’m @Jannette Wang.You might recognize me as GitHub's starter.
 - 👀 I’m interested in Azure Cloud and Automation.
 - 🌱 I’m currently working as Terraform enabler.
 - 💞️ I’m looking to collaborate on any of DevOps or Cloud team.
@@ -8,6 +10,12 @@
 sweet-aus/sweet-aus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+| Rank | Languages |
+|-----:|-----------|
+|     1|   C#      |  
+|     2|   JSON    |
+|     3|  Python   |
 
 minikube start
 minikube is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.
