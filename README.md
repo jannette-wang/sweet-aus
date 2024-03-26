@@ -4,7 +4,7 @@
 - 👀 I’m interested in Azure Cloud and Automation.
 - 🌱 I’m currently working as Terraform enabler.
 - 💞️ I’m looking to collaborate on any of DevOps or Cloud team.
-- 📫 How to reach me jannettewang@hotmail.com
+- 📫 How to reach me @github.
 
 <!---
 sweet-aus/sweet-aus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
