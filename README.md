@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Jannette Wang.You might recognize me as GitHub's starter.
 - 👀 I’m interested in Azure Cloud and Automation.
 - 🌱 I’m currently working as Terraform enabler.
-- 💞️ I’m looking to collaborate on any of DevOps or Cloud team.
+- 💞️ I’m looking to collaborate on any of DevOps, Cloud, Web or Mobile Apps Team.
 - 📫 How to reach me @github.
 
 <!---
