@@ -13,9 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 | Rank | Languages |
 |-----:|-----------|
-|     1|   C#      |  
+|     1|   .Net    |  
 |     2|   JSON    |
 |     3|  Python   |
+|     4|   React   |
+|     5|  NodeJS   |
 
 minikube start
 minikube is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.
